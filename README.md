@@ -29,7 +29,7 @@ Ainda pretendo voltar ao projeto para:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-projeto.git
+   git clone https://github.com/MathOak/blip-chatbot.git
    cd blip-chatbot
    ```
 
